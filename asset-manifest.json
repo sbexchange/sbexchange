@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.81e84747.css",
+    "main.js": "/static/js/main.b054e857.js",
+    "static/media/Rubik-VariableFont_wght.ttf": "/static/media/Rubik-VariableFont_wght.5cbae960ce7cf02e8bd8.ttf",
+    "static/media/Helvetica Neue Condensed Bold.ttf": "/static/media/Helvetica Neue Condensed Bold.88dd0cc27b58c9ca1dbf.ttf",
+    "static/media/Telegram.png": "/static/media/Telegram.5f5a7445a3ab54063297.png",
+    "static/media/excha.webp": "/static/media/excha.60e5cbdfe65723dce8de.webp",
+    "static/media/otc.webp": "/static/media/otc.0d898667a0867a29a5aa.webp",
+    "static/media/p2p.webp": "/static/media/p2p.5718e9c3e951bfec7b43.webp",
+    "static/media/quote.svg": "/static/media/quote.48eeda7c79768dc6354a.svg",
+    "static/media/dollar.svg": "/static/media/dollar.5694792962ed1e19e87d.svg",
+    "index.html": "/index.html",
+    "static/media/message.svg": "/static/media/message.a73f5759b2a98481207f.svg",
+    "main.81e84747.css.map": "/static/css/main.81e84747.css.map",
+    "main.b054e857.js.map": "/static/js/main.b054e857.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81e84747.css",
+    "static/js/main.b054e857.js"
+  ]
+}
