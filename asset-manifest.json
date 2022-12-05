@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8dd16151.css",
-    "main.js": "/static/js/main.ae8be33d.js",
+    "main.css": "/static/css/main.0ad8e696.css",
+    "main.js": "/static/js/main.f879faad.js",
     "static/media/Rubik-VariableFont_wght.ttf": "/static/media/Rubik-VariableFont_wght.5cbae960ce7cf02e8bd8.ttf",
     "static/media/Helvetica Neue Condensed Bold.ttf": "/static/media/Helvetica Neue Condensed Bold.88dd0cc27b58c9ca1dbf.ttf",
     "static/media/LOGO.png": "/static/media/LOGO.474896eaa1a1879a5a6e.png",
@@ -13,11 +13,11 @@
     "static/media/dollar.svg": "/static/media/dollar.5694792962ed1e19e87d.svg",
     "index.html": "/index.html",
     "static/media/message.svg": "/static/media/message.a73f5759b2a98481207f.svg",
-    "main.8dd16151.css.map": "/static/css/main.8dd16151.css.map",
-    "main.ae8be33d.js.map": "/static/js/main.ae8be33d.js.map"
+    "main.0ad8e696.css.map": "/static/css/main.0ad8e696.css.map",
+    "main.f879faad.js.map": "/static/js/main.f879faad.js.map"
   },
   "entrypoints": [
-    "static/css/main.8dd16151.css",
-    "static/js/main.ae8be33d.js"
+    "static/css/main.0ad8e696.css",
+    "static/js/main.f879faad.js"
   ]
 }
