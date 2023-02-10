@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0ad8e696.css",
-    "main.js": "/static/js/main.f09f4002.js",
+    "main.js": "/static/js/main.d3aa765a.js",
     "static/media/Rubik-VariableFont_wght.ttf": "/static/media/Rubik-VariableFont_wght.5cbae960ce7cf02e8bd8.ttf",
     "static/media/Helvetica Neue Condensed Bold.ttf": "/static/media/Helvetica Neue Condensed Bold.88dd0cc27b58c9ca1dbf.ttf",
     "static/media/LOGO.png": "/static/media/LOGO.474896eaa1a1879a5a6e.png",
@@ -14,10 +14,10 @@
     "index.html": "/index.html",
     "static/media/message.svg": "/static/media/message.a73f5759b2a98481207f.svg",
     "main.0ad8e696.css.map": "/static/css/main.0ad8e696.css.map",
-    "main.f09f4002.js.map": "/static/js/main.f09f4002.js.map"
+    "main.d3aa765a.js.map": "/static/js/main.d3aa765a.js.map"
   },
   "entrypoints": [
     "static/css/main.0ad8e696.css",
-    "static/js/main.f09f4002.js"
+    "static/js/main.d3aa765a.js"
   ]
 }
